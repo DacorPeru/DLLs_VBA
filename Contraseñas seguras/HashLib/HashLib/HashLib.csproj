@@ -34,7 +34,7 @@
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
   <PropertyGroup>
-    <AssemblyOriginatorKeyFile>CryptoLibKey.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>DacorPeru_StrongKey.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="CryptoLibKey.snk" />
+    <None Include="DacorPeru_StrongKey.snk" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

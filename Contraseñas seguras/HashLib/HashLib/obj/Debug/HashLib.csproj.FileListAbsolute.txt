@@ -4,3 +4,9 @@ C:\Users\GESMER REYES\Desktop\Contraseñas seguras\HashLib\HashLib\obj\Debug\Has
 C:\Users\GESMER REYES\Desktop\Contraseñas seguras\HashLib\HashLib\obj\Debug\HashLib.csproj.CoreCompileInputs.cache
 C:\Users\GESMER REYES\Desktop\Contraseñas seguras\HashLib\HashLib\obj\Debug\HashLib.dll
 C:\Users\GESMER REYES\Desktop\Contraseñas seguras\HashLib\HashLib\obj\Debug\HashLib.pdb
+C:\DCode\DLLs_VBA\Contraseñas seguras\HashLib\HashLib\bin\Debug\HashLib.dll
+C:\DCode\DLLs_VBA\Contraseñas seguras\HashLib\HashLib\bin\Debug\HashLib.pdb
+C:\DCode\DLLs_VBA\Contraseñas seguras\HashLib\HashLib\obj\Debug\HashLib.csproj.AssemblyReference.cache
+C:\DCode\DLLs_VBA\Contraseñas seguras\HashLib\HashLib\obj\Debug\HashLib.csproj.CoreCompileInputs.cache
+C:\DCode\DLLs_VBA\Contraseñas seguras\HashLib\HashLib\obj\Debug\HashLib.dll
+C:\DCode\DLLs_VBA\Contraseñas seguras\HashLib\HashLib\obj\Debug\HashLib.pdb
