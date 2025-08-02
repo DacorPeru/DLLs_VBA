@@ -1,0 +1,6 @@
+C:\Users\GESMER REYES\Desktop\SmartValidator\SmartValidator\SmartValidator\bin\Debug\SmartValidator.dll
+C:\Users\GESMER REYES\Desktop\SmartValidator\SmartValidator\SmartValidator\bin\Debug\SmartValidator.pdb
+C:\Users\GESMER REYES\Desktop\SmartValidator\SmartValidator\SmartValidator\obj\Debug\SmartValidator.csproj.AssemblyReference.cache
+C:\Users\GESMER REYES\Desktop\SmartValidator\SmartValidator\SmartValidator\obj\Debug\SmartValidator.csproj.CoreCompileInputs.cache
+C:\Users\GESMER REYES\Desktop\SmartValidator\SmartValidator\SmartValidator\obj\Debug\SmartValidator.dll
+C:\Users\GESMER REYES\Desktop\SmartValidator\SmartValidator\SmartValidator\obj\Debug\SmartValidator.pdb

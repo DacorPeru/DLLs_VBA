@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|c:\\users\\gesmer reyes\\desktop\\qrbarlib\\qrbarlib\\qrbarlib\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|solutionrelative:qrbarlib\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|c:\\users\\gesmer reyes\\desktop\\qrbarlib\\qrbarlib\\qrbarlib\\utils\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|solutionrelative:qrbarlib\\utils\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|c:\\users\\gesmer reyes\\desktop\\qrbarlib\\qrbarlib\\qrbarlib\\utils\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|solutionrelative:qrbarlib\\utils\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|c:\\users\\gesmer reyes\\desktop\\qrbarlib\\qrbarlib\\qrbarlib\\utils\\colorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|solutionrelative:qrbarlib\\utils\\colorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\qrbarlib\\reports\\pdfhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|solutionrelative:qrbarlib\\reports\\pdfhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|c:\\users\\gesmer reyes\\desktop\\qrbarlib\\qrbarlib\\qrbarlib\\reports\\labeltemplatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|solutionrelative:qrbarlib\\reports\\labeltemplatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|c:\\users\\gesmer reyes\\desktop\\qrbarlib\\qrbarlib\\qrbarlib\\decode\\decoderlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|solutionrelative:qrbarlib\\decode\\decoderlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\qrbarlib\\core\\qrcodegeneratorlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|solutionrelative:qrbarlib\\core\\qrcodegeneratorlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|c:\\users\\gesmer reyes\\desktop\\qrbarlib\\qrbarlib\\qrbarlib\\core\\labelgeneratorlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|solutionrelative:qrbarlib\\core\\labelgeneratorlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\qrbarlib\\core\\barcodegeneratorlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|solutionrelative:qrbarlib\\core\\barcodegeneratorlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|c:\\users\\gesmer reyes\\desktop\\qrbarlib\\qrbarlib\\qrbarlib\\config\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|solutionrelative:qrbarlib\\config\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|QRBarLib||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|c:\\users\\gesmer reyes\\desktop\\qrbarlib\\qrbarlib\\qrbarlib\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|f8d6553f-f752-4dbf-acb6-f291b744a792"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "QRBarLib\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\AssemblyInfo.cs",
+              "RelativeToolTip": "QRBarLib\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:14:46.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageHelper.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Utils\\ImageHelper.cs",
+              "RelativeDocumentMoniker": "QRBarLib\\Utils\\ImageHelper.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Utils\\ImageHelper.cs",
+              "RelativeToolTip": "QRBarLib\\Utils\\ImageHelper.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:14:42.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileHelper.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Utils\\FileHelper.cs",
+              "RelativeDocumentMoniker": "QRBarLib\\Utils\\FileHelper.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Utils\\FileHelper.cs",
+              "RelativeToolTip": "QRBarLib\\Utils\\FileHelper.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:14:38.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ColorHelper.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Utils\\ColorHelper.cs",
+              "RelativeDocumentMoniker": "QRBarLib\\Utils\\ColorHelper.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Utils\\ColorHelper.cs",
+              "RelativeToolTip": "QRBarLib\\Utils\\ColorHelper.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:14:34.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LabelTemplateHelper.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Reports\\LabelTemplateHelper.cs",
+              "RelativeDocumentMoniker": "QRBarLib\\Reports\\LabelTemplateHelper.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Reports\\LabelTemplateHelper.cs",
+              "RelativeToolTip": "QRBarLib\\Reports\\LabelTemplateHelper.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:14:23.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LabelGeneratorLib.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\core\\LabelGeneratorLib.cs",
+              "RelativeDocumentMoniker": "QRBarLib\\core\\LabelGeneratorLib.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\core\\LabelGeneratorLib.cs",
+              "RelativeToolTip": "QRBarLib\\core\\LabelGeneratorLib.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:14:09.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Config\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "QRBarLib\\Config\\ConfigManager.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Config\\ConfigManager.cs",
+              "RelativeToolTip": "QRBarLib\\Config\\ConfigManager.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T20:13:51.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QRBarLib",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\QRBarLib.csproj",
+              "RelativeDocumentMoniker": "QRBarLib\\QRBarLib.csproj",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\QRBarLib.csproj",
+              "RelativeToolTip": "QRBarLib\\QRBarLib.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-01T19:57:42.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DecoderLib.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Decode\\DecoderLib.cs",
+              "RelativeDocumentMoniker": "QRBarLib\\Decode\\DecoderLib.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Decode\\DecoderLib.cs",
+              "RelativeToolTip": "QRBarLib\\Decode\\DecoderLib.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:11:17.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QRCodeGeneratorLib.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\core\\QRCodeGeneratorLib.cs",
+              "RelativeDocumentMoniker": "QRBarLib\\core\\QRCodeGeneratorLib.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\core\\QRCodeGeneratorLib.cs",
+              "RelativeToolTip": "QRBarLib\\core\\QRCodeGeneratorLib.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAIwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:06:02.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BarcodeGeneratorLib.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\core\\BarcodeGeneratorLib.cs",
+              "RelativeDocumentMoniker": "QRBarLib\\core\\BarcodeGeneratorLib.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\core\\BarcodeGeneratorLib.cs",
+              "RelativeToolTip": "QRBarLib\\core\\BarcodeGeneratorLib.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAIwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:05:01.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PdfHelper.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Reports\\PdfHelper.cs",
+              "RelativeDocumentMoniker": "QRBarLib\\Reports\\PdfHelper.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Reports\\PdfHelper.cs",
+              "RelativeToolTip": "QRBarLib\\Reports\\PdfHelper.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAmwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T18:57:28.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GESMER REYES\\Desktop\\EcnriptadorDP\\GenerarRSA\\GenerarRSA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9962DC83-BF0F-4917-B8BF-8F1D59DB3757}|GenerarRSA\\GenerarRSA.csproj|C:\\Users\\GESMER REYES\\Desktop\\EcnriptadorDP\\GenerarRSA\\GenerarRSA\\generarrsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9962DC83-BF0F-4917-B8BF-8F1D59DB3757}|GenerarRSA\\GenerarRSA.csproj|solutionrelative:generarrsa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\EcnriptadorDP\\GenerarRSA\\GenerarRSA\\GenerarRSA\\Program.cs",
+              "RelativeDocumentMoniker": "GenerarRSA\\Program.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\EcnriptadorDP\\GenerarRSA\\GenerarRSA\\GenerarRSA\\Program.cs",
+              "RelativeToolTip": "GenerarRSA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:56:45.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|c:\\users\\gesmer reyes\\desktop\\qrbarlib\\qrbarlib\\qrbarlib\\decode\\decoderlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|solutionrelative:qrbarlib\\decode\\decoderlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\qrbarlib\\core\\qrcodegeneratorlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|solutionrelative:qrbarlib\\core\\qrcodegeneratorlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\qrbarlib\\core\\barcodegeneratorlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|solutionrelative:qrbarlib\\core\\barcodegeneratorlib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\qrbarlib\\reports\\pdfhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C372B789-F3BB-42C6-A7D0-164ECD271FDE}|QRBarLib\\QRBarLib.csproj|solutionrelative:qrbarlib\\reports\\pdfhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DecoderLib.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Decode\\DecoderLib.cs",
+              "RelativeDocumentMoniker": "QRBarLib\\Decode\\DecoderLib.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Decode\\DecoderLib.cs",
+              "RelativeToolTip": "QRBarLib\\Decode\\DecoderLib.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:11:17.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QRCodeGeneratorLib.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\core\\QRCodeGeneratorLib.cs",
+              "RelativeDocumentMoniker": "QRBarLib\\core\\QRCodeGeneratorLib.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\core\\QRCodeGeneratorLib.cs",
+              "RelativeToolTip": "QRBarLib\\core\\QRCodeGeneratorLib.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAwwG8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:06:02.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BarcodeGeneratorLib.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\core\\BarcodeGeneratorLib.cs",
+              "RelativeDocumentMoniker": "QRBarLib\\core\\BarcodeGeneratorLib.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\core\\BarcodeGeneratorLib.cs",
+              "RelativeToolTip": "QRBarLib\\core\\BarcodeGeneratorLib.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAmwHsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T19:05:01.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PdfHelper.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Reports\\PdfHelper.cs",
+              "RelativeDocumentMoniker": "QRBarLib\\Reports\\PdfHelper.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\QRBarLib\\QRBarLib\\QRBarLib\\Reports\\PdfHelper.cs",
+              "RelativeToolTip": "QRBarLib\\Reports\\PdfHelper.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAmwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T18:57:28.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

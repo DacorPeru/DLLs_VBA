@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GESMER REYES\\Desktop\\SecureLib\\SecureLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9641C5F6-0167-471D-BBBD-92AF5DE22FA7}|SecureLib\\SecureLib.csproj|c:\\users\\gesmer reyes\\desktop\\securelib\\securelib\\securelib\\cryptoaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9641C5F6-0167-471D-BBBD-92AF5DE22FA7}|SecureLib\\SecureLib.csproj|solutionrelative:securelib\\cryptoaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9641C5F6-0167-471D-BBBD-92AF5DE22FA7}|SecureLib\\SecureLib.csproj|C:\\Users\\GESMER REYES\\Desktop\\SecureLib\\SecureLib\\securelib\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9641C5F6-0167-471D-BBBD-92AF5DE22FA7}|SecureLib\\SecureLib.csproj|solutionrelative:securelib\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9641C5F6-0167-471D-BBBD-92AF5DE22FA7}|SecureLib\\SecureLib.csproj|C:\\Users\\GESMER REYES\\Desktop\\SecureLib\\SecureLib\\securelib\\passwordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9641C5F6-0167-471D-BBBD-92AF5DE22FA7}|SecureLib\\SecureLib.csproj|solutionrelative:securelib\\passwordgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9641C5F6-0167-471D-BBBD-92AF5DE22FA7}|SecureLib\\SecureLib.csproj|C:\\Users\\GESMER REYES\\Desktop\\SecureLib\\SecureLib\\securelib\\passwordstrength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9641C5F6-0167-471D-BBBD-92AF5DE22FA7}|SecureLib\\SecureLib.csproj|solutionrelative:securelib\\passwordstrength.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordStrength.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\SecureLib\\SecureLib\\SecureLib\\PasswordStrength.cs",
+              "RelativeDocumentMoniker": "SecureLib\\PasswordStrength.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\SecureLib\\SecureLib\\SecureLib\\PasswordStrength.cs",
+              "RelativeToolTip": "SecureLib\\PasswordStrength.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T15:46:27.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CryptoAES.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\SecureLib\\SecureLib\\SecureLib\\CryptoAES.cs",
+              "RelativeDocumentMoniker": "SecureLib\\CryptoAES.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\SecureLib\\SecureLib\\SecureLib\\CryptoAES.cs",
+              "RelativeToolTip": "SecureLib\\CryptoAES.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T15:46:18.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\SecureLib\\SecureLib\\SecureLib\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "SecureLib\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\SecureLib\\SecureLib\\SecureLib\\PasswordHasher.cs",
+              "RelativeToolTip": "SecureLib\\PasswordHasher.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T15:46:06.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\GESMER REYES\\Desktop\\SecureLib\\SecureLib\\SecureLib\\PasswordGenerator.cs",
+              "RelativeDocumentMoniker": "SecureLib\\PasswordGenerator.cs",
+              "ToolTip": "C:\\Users\\GESMER REYES\\Desktop\\SecureLib\\SecureLib\\SecureLib\\PasswordGenerator.cs",
+              "RelativeToolTip": "SecureLib\\PasswordGenerator.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T15:45:55.962Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

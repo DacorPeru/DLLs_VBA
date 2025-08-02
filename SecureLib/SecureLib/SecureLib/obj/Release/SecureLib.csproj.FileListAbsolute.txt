@@ -1,0 +1,6 @@
+C:\Users\GESMER REYES\Desktop\SecureLib\SecureLib\SecureLib\bin\Release\SecureLib.dll
+C:\Users\GESMER REYES\Desktop\SecureLib\SecureLib\SecureLib\bin\Release\SecureLib.pdb
+C:\Users\GESMER REYES\Desktop\SecureLib\SecureLib\SecureLib\obj\Release\SecureLib.csproj.AssemblyReference.cache
+C:\Users\GESMER REYES\Desktop\SecureLib\SecureLib\SecureLib\obj\Release\SecureLib.csproj.CoreCompileInputs.cache
+C:\Users\GESMER REYES\Desktop\SecureLib\SecureLib\SecureLib\obj\Release\SecureLib.dll
+C:\Users\GESMER REYES\Desktop\SecureLib\SecureLib\SecureLib\obj\Release\SecureLib.pdb

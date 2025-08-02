@@ -1,0 +1,7 @@
+C:\Users\GESMER REYES\Desktop\EcnriptadorDP\GenerarRSA\GenerarRSA\GenerarRSA\bin\Debug\GenerarRSA.exe.config
+C:\Users\GESMER REYES\Desktop\EcnriptadorDP\GenerarRSA\GenerarRSA\GenerarRSA\bin\Debug\GenerarRSA.exe
+C:\Users\GESMER REYES\Desktop\EcnriptadorDP\GenerarRSA\GenerarRSA\GenerarRSA\bin\Debug\GenerarRSA.pdb
+C:\Users\GESMER REYES\Desktop\EcnriptadorDP\GenerarRSA\GenerarRSA\GenerarRSA\obj\Debug\GenerarRSA.csproj.AssemblyReference.cache
+C:\Users\GESMER REYES\Desktop\EcnriptadorDP\GenerarRSA\GenerarRSA\GenerarRSA\obj\Debug\GenerarRSA.csproj.CoreCompileInputs.cache
+C:\Users\GESMER REYES\Desktop\EcnriptadorDP\GenerarRSA\GenerarRSA\GenerarRSA\obj\Debug\GenerarRSA.exe
+C:\Users\GESMER REYES\Desktop\EcnriptadorDP\GenerarRSA\GenerarRSA\GenerarRSA\obj\Debug\GenerarRSA.pdb

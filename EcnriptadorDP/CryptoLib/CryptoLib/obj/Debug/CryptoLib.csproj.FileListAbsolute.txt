@@ -1,0 +1,6 @@
+C:\Users\GESMER REYES\Documents\CryptoLib\CryptoLib\CryptoLib\bin\Debug\CryptoLib.dll
+C:\Users\GESMER REYES\Documents\CryptoLib\CryptoLib\CryptoLib\bin\Debug\CryptoLib.pdb
+C:\Users\GESMER REYES\Documents\CryptoLib\CryptoLib\CryptoLib\obj\Debug\CryptoLib.csproj.AssemblyReference.cache
+C:\Users\GESMER REYES\Documents\CryptoLib\CryptoLib\CryptoLib\obj\Debug\CryptoLib.csproj.CoreCompileInputs.cache
+C:\Users\GESMER REYES\Documents\CryptoLib\CryptoLib\CryptoLib\obj\Debug\CryptoLib.dll
+C:\Users\GESMER REYES\Documents\CryptoLib\CryptoLib\CryptoLib\obj\Debug\CryptoLib.pdb
