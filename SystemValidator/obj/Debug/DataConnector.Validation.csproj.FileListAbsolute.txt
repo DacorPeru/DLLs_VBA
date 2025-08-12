@@ -1,0 +1,12 @@
+C:\Dcode\DLLs_VBA\SystemValidator\bin\Debug\SystemValidator.dll
+C:\Dcode\DLLs_VBA\SystemValidator\bin\Debug\SystemValidator.pdb
+C:\Dcode\DLLs_VBA\SystemValidator\bin\Debug\DataConnector.Core.dll
+C:\Dcode\DLLs_VBA\SystemValidator\bin\Debug\Newtonsoft.Json.dll
+C:\Dcode\DLLs_VBA\SystemValidator\bin\Debug\DataConnector.Core.pdb
+C:\Dcode\DLLs_VBA\SystemValidator\bin\Debug\Newtonsoft.Json.xml
+C:\Dcode\DLLs_VBA\SystemValidator\obj\Debug\DataConnector.Validation.csproj.AssemblyReference.cache
+C:\Dcode\DLLs_VBA\SystemValidator\obj\Debug\DataConnector.Validation.csproj.CoreCompileInputs.cache
+C:\Dcode\DLLs_VBA\SystemValidator\obj\Debug\DataConn.B9EF7E7F.Up2Date
+C:\Dcode\DLLs_VBA\SystemValidator\obj\Debug\SystemValidator.dll
+C:\Dcode\DLLs_VBA\SystemValidator\obj\Debug\SystemValidator.pdb
+C:\Dcode\DLLs_VBA\SystemValidator\bin\Debug\SystemValidator.tlb

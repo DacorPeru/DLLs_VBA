@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dcode\\DLLs_VBA\\SystemValidator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50F92B11-ADD4-4B5B-AC5D-5F6DE6E6F816}|..\\DataConnector.Core\\DataConnector.Core.csproj|c:\\dcode\\dlls_vba\\dataconnector.core\\securestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50F92B11-ADD4-4B5B-AC5D-5F6DE6E6F816}|..\\DataConnector.Core\\DataConnector.Core.csproj|c:\\dcode\\dlls_vba\\dataconnector.core\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{260D384C-68AF-4946-9769-F13BCC760B05}|DataConnector.Validation.csproj|C:\\Dcode\\DLLs_VBA\\SystemValidator\\systemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{260D384C-68AF-4946-9769-F13BCC760B05}|DataConnector.Validation.csproj|solutionrelative:systemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecureString.cs",
+              "DocumentMoniker": "C:\\Dcode\\DLLs_VBA\\DataConnector.Core\\SecureString.cs",
+              "RelativeDocumentMoniker": "..\\DataConnector.Core\\SecureString.cs",
+              "ToolTip": "C:\\Dcode\\DLLs_VBA\\DataConnector.Core\\SecureString.cs",
+              "RelativeToolTip": "..\\DataConnector.Core\\SecureString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T21:03:43.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "C:\\Dcode\\DLLs_VBA\\DataConnector.Core\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "..\\DataConnector.Core\\ConfigManager.cs",
+              "ToolTip": "C:\\Dcode\\DLLs_VBA\\DataConnector.Core\\ConfigManager.cs",
+              "RelativeToolTip": "..\\DataConnector.Core\\ConfigManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T21:03:32.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemValidator.cs",
+              "DocumentMoniker": "C:\\Dcode\\DLLs_VBA\\SystemValidator\\SystemValidator.cs",
+              "RelativeDocumentMoniker": "SystemValidator.cs",
+              "ToolTip": "C:\\Dcode\\DLLs_VBA\\SystemValidator\\SystemValidator.cs",
+              "RelativeToolTip": "SystemValidator.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwDUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:17:41.831Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

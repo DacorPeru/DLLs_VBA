@@ -1,0 +1,9 @@
+C:\Dcode\DLLs_VBA\DataConnector.Core\bin\Debug\DataConnector.Core.dll
+C:\Dcode\DLLs_VBA\DataConnector.Core\bin\Debug\DataConnector.Core.pdb
+C:\Dcode\DLLs_VBA\DataConnector.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Dcode\DLLs_VBA\DataConnector.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Dcode\DLLs_VBA\DataConnector.Core\obj\Debug\DataConnector.Core.csproj.AssemblyReference.cache
+C:\Dcode\DLLs_VBA\DataConnector.Core\obj\Debug\DataConnector.Core.csproj.CoreCompileInputs.cache
+C:\Dcode\DLLs_VBA\DataConnector.Core\obj\Debug\DataConn.BDDB2033.Up2Date
+C:\Dcode\DLLs_VBA\DataConnector.Core\obj\Debug\DataConnector.Core.dll
+C:\Dcode\DLLs_VBA\DataConnector.Core\obj\Debug\DataConnector.Core.pdb
