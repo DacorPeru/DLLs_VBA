@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DCode\\DLLs_VBA\\ValidadorSistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C0E570-F1B5-4427-AA91-3EA14BBC8D8D}|ValidadorSistema\\ValidadorSistema.csproj|c:\\dcode\\dlls_vba\\validadorsistema\\validadorsistema\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C0E570-F1B5-4427-AA91-3EA14BBC8D8D}|ValidadorSistema\\ValidadorSistema.csproj|solutionrelative:validadorsistema\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\DCode\\DLLs_VBA\\ValidadorSistema\\ValidadorSistema\\Class1.cs",
+              "RelativeDocumentMoniker": "ValidadorSistema\\Class1.cs",
+              "ToolTip": "C:\\DCode\\DLLs_VBA\\ValidadorSistema\\ValidadorSistema\\Class1.cs",
+              "RelativeToolTip": "ValidadorSistema\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:38:43.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

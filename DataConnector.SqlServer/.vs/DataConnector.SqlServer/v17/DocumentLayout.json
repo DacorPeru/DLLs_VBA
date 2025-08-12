@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DCode\\DLLs_VBA\\DataConnector.SqlServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{341098DC-F87F-4ADF-A9C3-98A695FD7F2E}|DataConnector.SqlServer\\DataConnector.SqlServer.csproj|c:\\dcode\\dlls_vba\\dataconnector.sqlserver\\dataconnector.sqlserver\\sqlbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341098DC-F87F-4ADF-A9C3-98A695FD7F2E}|DataConnector.SqlServer\\DataConnector.SqlServer.csproj|solutionrelative:dataconnector.sqlserver\\sqlbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341098DC-F87F-4ADF-A9C3-98A695FD7F2E}|DataConnector.SqlServer\\DataConnector.SqlServer.csproj|C:\\DCode\\DLLs_VBA\\DataConnector.SqlServer\\dataconnector.sqlserver\\dbresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341098DC-F87F-4ADF-A9C3-98A695FD7F2E}|DataConnector.SqlServer\\DataConnector.SqlServer.csproj|solutionrelative:dataconnector.sqlserver\\dbresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341098DC-F87F-4ADF-A9C3-98A695FD7F2E}|DataConnector.SqlServer\\DataConnector.SqlServer.csproj|C:\\DCode\\DLLs_VBA\\DataConnector.SqlServer\\dataconnector.sqlserver\\dbconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341098DC-F87F-4ADF-A9C3-98A695FD7F2E}|DataConnector.SqlServer\\DataConnector.SqlServer.csproj|solutionrelative:dataconnector.sqlserver\\dbconnectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341098DC-F87F-4ADF-A9C3-98A695FD7F2E}|DataConnector.SqlServer\\DataConnector.SqlServer.csproj|C:\\DCode\\DLLs_VBA\\DataConnector.SqlServer\\dataconnector.sqlserver\\dbcompanymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341098DC-F87F-4ADF-A9C3-98A695FD7F2E}|DataConnector.SqlServer\\DataConnector.SqlServer.csproj|solutionrelative:dataconnector.sqlserver\\dbcompanymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341098DC-F87F-4ADF-A9C3-98A695FD7F2E}|DataConnector.SqlServer\\DataConnector.SqlServer.csproj|C:\\DCode\\DLLs_VBA\\DataConnector.SqlServer\\dataconnector.sqlserver\\dbstoredprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341098DC-F87F-4ADF-A9C3-98A695FD7F2E}|DataConnector.SqlServer\\DataConnector.SqlServer.csproj|solutionrelative:dataconnector.sqlserver\\dbstoredprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLBridge.cs",
+              "DocumentMoniker": "C:\\DCode\\DLLs_VBA\\DataConnector.SqlServer\\DataConnector.SqlServer\\SQLBridge.cs",
+              "RelativeDocumentMoniker": "DataConnector.SqlServer\\SQLBridge.cs",
+              "ToolTip": "C:\\DCode\\DLLs_VBA\\DataConnector.SqlServer\\DataConnector.SqlServer\\SQLBridge.cs",
+              "RelativeToolTip": "DataConnector.SqlServer\\SQLBridge.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAiwIgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T02:41:33.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBResult.cs",
+              "DocumentMoniker": "C:\\DCode\\DLLs_VBA\\DataConnector.SqlServer\\DataConnector.SqlServer\\DBResult.cs",
+              "RelativeDocumentMoniker": "DataConnector.SqlServer\\DBResult.cs",
+              "ToolTip": "C:\\DCode\\DLLs_VBA\\DataConnector.SqlServer\\DataConnector.SqlServer\\DBResult.cs",
+              "RelativeToolTip": "DataConnector.SqlServer\\DBResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T02:08:09.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBConnectionManager.cs",
+              "DocumentMoniker": "C:\\DCode\\DLLs_VBA\\DataConnector.SqlServer\\DataConnector.SqlServer\\DBConnectionManager.cs",
+              "RelativeDocumentMoniker": "DataConnector.SqlServer\\DBConnectionManager.cs",
+              "ToolTip": "C:\\DCode\\DLLs_VBA\\DataConnector.SqlServer\\DataConnector.SqlServer\\DBConnectionManager.cs",
+              "RelativeToolTip": "DataConnector.SqlServer\\DBConnectionManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T02:07:15.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBCompanyManager.cs",
+              "DocumentMoniker": "C:\\DCode\\DLLs_VBA\\DataConnector.SqlServer\\DataConnector.SqlServer\\DBCompanyManager.cs",
+              "RelativeDocumentMoniker": "DataConnector.SqlServer\\DBCompanyManager.cs",
+              "ToolTip": "C:\\DCode\\DLLs_VBA\\DataConnector.SqlServer\\DataConnector.SqlServer\\DBCompanyManager.cs",
+              "RelativeToolTip": "DataConnector.SqlServer\\DBCompanyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T02:06:58.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBStoredProcedure.cs",
+              "DocumentMoniker": "C:\\DCode\\DLLs_VBA\\DataConnector.SqlServer\\DataConnector.SqlServer\\DBStoredProcedure.cs",
+              "RelativeDocumentMoniker": "DataConnector.SqlServer\\DBStoredProcedure.cs",
+              "ToolTip": "C:\\DCode\\DLLs_VBA\\DataConnector.SqlServer\\DataConnector.SqlServer\\DBStoredProcedure.cs",
+              "RelativeToolTip": "DataConnector.SqlServer\\DBStoredProcedure.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T01:42:24.63Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\DCode\DLLs_VBA\DataConnector.SqlServer\DataConnector.SqlServer\bin\Release\DataConnector.SqlServer.dll
+C:\DCode\DLLs_VBA\DataConnector.SqlServer\DataConnector.SqlServer\bin\Release\DataConnector.SqlServer.pdb
+C:\DCode\DLLs_VBA\DataConnector.SqlServer\DataConnector.SqlServer\bin\Release\DataConnector.SqlServer.tlb
+C:\DCode\DLLs_VBA\DataConnector.SqlServer\DataConnector.SqlServer\bin\Release\Newtonsoft.Json.dll
+C:\DCode\DLLs_VBA\DataConnector.SqlServer\DataConnector.SqlServer\bin\Release\Newtonsoft.Json.xml
+C:\DCode\DLLs_VBA\DataConnector.SqlServer\DataConnector.SqlServer\obj\Release\DataConnector.SqlServer.csproj.AssemblyReference.cache
+C:\DCode\DLLs_VBA\DataConnector.SqlServer\DataConnector.SqlServer\obj\Release\DataConnector.SqlServer.csproj.CoreCompileInputs.cache
+C:\DCode\DLLs_VBA\DataConnector.SqlServer\DataConnector.SqlServer\obj\Release\DataConn.28F759F1.Up2Date
+C:\DCode\DLLs_VBA\DataConnector.SqlServer\DataConnector.SqlServer\obj\Release\DataConnector.SqlServer.dll
+C:\DCode\DLLs_VBA\DataConnector.SqlServer\DataConnector.SqlServer\obj\Release\DataConnector.SqlServer.pdb
