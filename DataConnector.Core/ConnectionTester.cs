@@ -3,16 +3,24 @@ using System.Data.SqlClient;
 
 namespace DataConnector.Core
 {
-    // ▼ HAZLO PUBLIC para que el proyecto COM pueda llamarlo
+    /// <summary>
+    /// Servicio mínimo para validar conectividad a SQL Server.
+    /// Ejecuta "SELECT 1" y reporta:
+    ///  • ok: true/false
+    ///  • message: texto amigable para usuario
+    ///  • technical: detalle técnico para soporte (stack/SQL)
+    /// </summary>
     public static class ConnectionTester
     {
         public static (bool ok, string message, string technical) Test()
         {
             try
             {
-                using (var cn = new SqlConnection(ConfigManager.BuildConnectionString()))
+                var cs = ConfigManager.BuildConnectionString();
+                using (var cn = new SqlConnection(cs))
                 {
-                    cn.Open();
+                    cn.Open(); // Si falla, lanza SqlException / Authentication exception, etc.
+
                     using (var cmd = new SqlCommand("SELECT 1", cn))
                     {
                         var r = cmd.ExecuteScalar();
